@@ -75,7 +75,7 @@ pinMode (x1,INPUT_PULLUP);
 pinMode (s0,OUTPUT);
 pinMode (s1,OUTPUT);
 pinMode (s2,OUTPUT);
-
+}
 void loop() {
 const int tempo = 20;//pra não ficar digitando toda hora o tempo dentro do delay
 
